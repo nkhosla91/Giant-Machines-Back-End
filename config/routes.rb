@@ -4,5 +4,4 @@ Rails.application.routes.draw do
       resources :works, only: [:index, :show, :create]
     end
   end
-  
 end
