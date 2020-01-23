@@ -16,7 +16,7 @@ ActiveRecord::Schema.define(version: 2020_01_22_224031) do
   enable_extension "plpgsql"
 
   create_table "works", force: :cascade do |t|
-    t.date "date"
+    t.string "date"
     t.string "client"
     t.string "project"
     t.string "projectCode"
