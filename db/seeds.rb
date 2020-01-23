@@ -9,7 +9,6 @@ csv_text = File.read(Rails.root.join('lib', 'seeds', '../../GM_Coding_Exercise_S
 csv = CSV.parse(csv_text, :headers => true)
 
 csv.each do |row|
-    # if row["Date"] == true
         Work.create ({
             date: row["Date"],
             client: row["Client"],
@@ -22,7 +21,6 @@ csv.each do |row|
             lastName: row["Last Name"],
             billableRate: row["Billable Rate"]
         }) #end of create
-    # end #end of if
 end #end of each
 
 # Work.first.destroy
