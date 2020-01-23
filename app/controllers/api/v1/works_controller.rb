@@ -1,10 +1,8 @@
 class Api::V1::WorksController < ApplicationController
 
     def index
-        # byebug
         works = Work.all 
         render json: works
-        # byebug
     end
     
     def show
