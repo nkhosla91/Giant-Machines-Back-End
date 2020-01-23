@@ -1,0 +1,590 @@
+Date,Client,Project,Project Code,Hours,Hours Rounded,Billable?,First Name,Last Name,Billable Rate
+,,,,,,,,,
+4/3/17,Anil,Ethereum,RD001,3.84,4,No,Robert,Powell,0
+4/3/17,Olith,Pharos,DV002,7.69,8,Yes,Hubert,Green,80
+4/3/17,Olith,Pharos,DV002,4.46,4,Yes,Bradley,Hale,80
+4/3/17,Olith,Pharos,DV002,7.57,8,Yes,Rudy,Parker,80
+4/3/17,Prosaria,Business Development,GM001,0.92,1,No,Walter,Silva,0
+4/3/17,Prosaria,Conference/Training,GM005,7.97,8,No,Tabitha,Jenkins,0
+4/3/17,Prosaria,Team Development (Non-Training),GM006,3.29,3,No,Tommy,Nash,0
+4/3/17,Prosaria,Admin/Legal,GM002,2.21,2,No,Tommy,Nash,0
+4/3/17,Prosaria,Conference/Training,GM005,3.84,4,No,Bradley,Hale,0
+4/3/17,Prosaria,Admin/Legal,GM002,2.11,2,No,Bradley,Hale,0
+4/3/17,Prosaria,Paid Time Off,GM003,7.87,8,No,Neal,Gordon,0
+4/3/17,Prosaria,Team Development (Non-Training),GM006,3.96,4,No,Robert,Powell,0
+4/3/17,Roonder Technologies LLC,Roonder 3.0,TM001,1.8,1.5,Yes,Walter,Silva,70
+4/3/17,Roonder Technologies LLC,Roonder 3.0,TM001,7.73,8,Yes,Faye,Cain,70
+4/3/17,Twitri,CLOB Rearchitecture,BGC001,6.26,6,Yes,Walter,Silva,50
+4/3/17,Twitri,CLOB Rearchitecture,BGC001,2.54,3,No,Tommy,Nash,0
+4/3/17,Twitri,CLOB Rearchitecture,BGC001,8.14,8,Yes,Eugene,Kim,70
+4/3/17,Twitri,CLOB Rearchitecture,BGC001,8.01,8,Yes,Emma,Clarke,50
+4/4/17,Anil,Ethereum,RD001,8.15,8,No,Tabitha,Jenkins,0
+4/4/17,Anil,Ethereum,RD001,8.39,8,No,Bernice,Rivera,0
+4/4/17,Anil,Ethereum,RD001,1.97,2,No,Robert,Powell,0
+4/4/17,Anil,Ethereum,RD001,4.21,4,No,Robert,Powell,0
+4/4/17,Audosis,Project Wildfire,Audosis003,2.48,2,No,Tommy,Nash,0
+4/4/17,Audosis,Project Wildfire,Audosis003,0.39,0.5,Yes,Walter,Silva,70
+4/4/17,Audosis,Project Wildfire,Audosis003,1.59,2,Yes,Robert,Powell,70
+4/4/17,Meecee,Google Drive Integration,FSG03,0.76,0.5,No,Tommy,Nash,0
+4/4/17,Olith,Pharos,DV002,5.77,6,Yes,Bradley,Hale,80
+4/4/17,Olith,Pharos,DV002,0.52,1,No,Tommy,Nash,0
+4/4/17,Olith,Pharos,DV002,7.96,8,Yes,Hubert,Green,80
+4/4/17,Olith,Pharos,DV002,7.95,8,Yes,Rudy,Parker,80
+4/4/17,Prosaria,Business Development,GM001,2.48,2,No,Tommy,Nash,0
+4/4/17,Prosaria,Team Development (Non-Training),GM006,1.99,1.5,No,Tommy,Nash,0
+4/4/17,Prosaria,Business Development,GM001,4.17,4,No,Walter,Silva,0
+4/4/17,Prosaria,Conference/Training,GM005,4.35,4,No,Neal,Gordon,0
+4/4/17,Roonder Technologies LLC,Roonder 3.0,TM001,2.3,2,Yes,Walter,Silva,70
+4/4/17,Roonder Technologies LLC,Roonder 3.0,TM001,7.63,8,Yes,Faye,Cain,70
+4/4/17,Roonder Technologies LLC,Roonder 3.0,TM001,3.78,4,Yes,Neal,Gordon,70
+4/4/17,Twitri,CLOB Rearchitecture,BGC001,1.53,2,Yes,Walter,Silva,50
+4/4/17,Twitri,CLOB Rearchitecture,BGC001,1,1,No,Tommy,Nash,0
+4/4/17,Twitri,CLOB Rearchitecture,BGC001,8.06,8.5,Yes,Eugene,Kim,70
+4/4/17,Twitri,CLOB Rearchitecture,BGC001,8.03,8,Yes,Emma,Clarke,50
+4/5/17,Anil,Ethereum,RD001,7.94,8,No,Bernice,Rivera,0
+4/5/17,Anil,Ethereum,RD001,5.05,5,No,Neal,Gordon,0
+4/5/17,Anil,Ethereum,RD001,8.28,8,No,Tabitha,Jenkins,0
+4/5/17,Anil,Ethereum,RD001,2.66,3,No,Robert,Powell,0
+4/5/17,Audosis,Project Wildfire,Audosis003,2.27,2,Yes,Walter,Silva,70
+4/5/17,Audosis,Project Wildfire,Audosis003,3.39,3,Yes,Tommy,Nash,70
+4/5/17,Audosis,Project Wildfire,Audosis003,0.87,1,Yes,Walter,Silva,70
+4/5/17,Audosis,Project Wildfire,Audosis003,3.01,3,Yes,Robert,Powell,70
+4/5/17,Audosis,Project Wildfire,Audosis003,2.2,2,Yes,Robert,Powell,70
+4/5/17,Olith,Pharos,DV002,8.2,8,Yes,Bradley,Hale,80
+4/5/17,Olith,Pharos,DV002,7.56,8,Yes,Hubert,Green,80
+4/5/17,Olith,Pharos,DV002,7.61,8,Yes,Rudy,Parker,80
+4/5/17,Prosaria,Conference/Training,GM005,4.34,4,No,Catherine,Ford,0
+4/5/17,Prosaria,Business Development,GM001,0.27,0.5,No,Walter,Silva,0
+4/5/17,Prosaria,Team Development (Non-Training),GM006,1.67,2,No,Tommy,Nash,0
+4/5/17,Prosaria,Business Development,GM001,1.5,1.5,No,Tommy,Nash,0
+4/5/17,Prosaria,Team Development (Non-Training),GM006,1.18,1.5,No,Tommy,Nash,0
+4/5/17,Roonder Technologies LLC,Roonder 3.0,TM001,8.94,9,Yes,Faye,Cain,70
+4/5/17,Roonder Technologies LLC,Roonder 3.0,TM001,1.55,2,Yes,Walter,Silva,70
+4/5/17,Roonder Technologies LLC,Roonder 3.0,TM001,2.71,3,Yes,Neal,Gordon,70
+4/5/17,Roonder Technologies LLC,Roonder 3.0,TM001,4.03,4,Yes,Catherine,Ford,70
+4/5/17,Twitri,CLOB Rearchitecture,BGC001,1.55,2,Yes,Walter,Silva,50
+4/5/17,Twitri,CLOB Rearchitecture,BGC001,8.08,8,Yes,Emma,Clarke,50
+4/5/17,Twitri,CLOB Rearchitecture,BGC001,8.82,8.5,Yes,Eugene,Kim,70
+4/6/17,Anil,Ethereum,RD001,7.81,8,No,Tabitha,Jenkins,0
+4/6/17,Anil,Ethereum,RD001,1.85,2,No,Neal,Gordon,0
+4/6/17,Audosis,Project Wildfire,Audosis003,4.5,4.5,Yes,Walter,Silva,70
+4/6/17,Audosis,Project Wildfire,Audosis003,4.34,4,Yes,Tommy,Nash,70
+4/6/17,Audosis,Project Wildfire,Audosis003,2.82,3,Yes,Robert,Powell,70
+4/6/17,Audosis,Project Wildfire,Audosis003,1.05,1.5,Yes,Robert,Powell,70
+4/6/17,Audosis,Project Wildfire,Audosis003,3.73,3.5,Yes,Robert,Powell,70
+4/6/17,Audosis,Project Wildfire,Audosis003,0.13,0.5,No,Tommy,Nash,0
+4/6/17,Olith,Pharos,DV002,8.93,9,Yes,Bradley,Hale,80
+4/6/17,Olith,Pharos,DV002,8.04,8,Yes,Hubert,Green,80
+4/6/17,Olith,Pharos,DV002,9.4,9,Yes,Rudy,Parker,80
+4/6/17,Prosaria,Business Development,GM001,1.25,1,No,Walter,Silva,0
+4/6/17,Prosaria,Business Development,GM001,1.01,1.5,No,Tommy,Nash,0
+4/6/17,Prosaria,Business Development,GM001,1.22,1,No,Tommy,Nash,0
+4/6/17,Prosaria,Paid Time Off,GM003,7.57,8,No,Bernice,Rivera,0
+4/6/17,Roonder Technologies LLC,Roonder 3.0,TM001,0.92,0.5,Yes,Walter,Silva,70
+4/6/17,Roonder Technologies LLC,Roonder 3.0,TM001,8.91,9,Yes,Faye,Cain,70
+4/6/17,Roonder Technologies LLC,Roonder 3.0,TM001,6.08,6,Yes,Neal,Gordon,70
+4/6/17,Roonder Technologies LLC,Roonder 3.0,TM001,7.83,8,Yes,Catherine,Ford,70
+4/6/17,Twitri,CLOB Rearchitecture,BGC001,3.01,3,Yes,Walter,Silva,50
+4/6/17,Twitri,CLOB Rearchitecture,BGC001,7.88,8,Yes,Emma,Clarke,50
+4/6/17,Twitri,CLOB Rearchitecture,BGC001,1.94,1.5,Yes,Eugene,Kim,70
+4/6/17,Twitri,CLOB Rearchitecture,BGC001,6.04,6.5,Yes,Eugene,Kim,70
+4/6/17,Twitri,CLOB Rearchitecture,BGC001,0.92,1,No,Tommy,Nash,0
+4/7/17,Anil,Ethereum,RD001,8.03,8,No,Tabitha,Jenkins,0
+4/7/17,Anil,React Native,RD002,2.81,3,No,Rudy,Parker,0
+4/7/17,Audosis,Project Wildfire,Audosis003,7.89,8,Yes,Robert,Powell,70
+4/7/17,Olith,Pharos,DV002,5.03,5,Yes,Bradley,Hale,80
+4/7/17,Olith,Pharos,DV002,8.05,8,Yes,Hubert,Green,80
+4/7/17,Olith,Pharos,DV002,3.78,4,Yes,Rudy,Parker,80
+4/7/17,Olith,Pharos,DV002,0.84,0.5,No,Tommy,Nash,0
+4/7/17,Prosaria,Admin/Legal,GM002,4.4,4,No,Bradley,Hale,0
+4/7/17,Prosaria,Team Development (Non-Training),GM006,1.86,2,No,Faye,Cain,0
+4/7/17,Prosaria,Business Development,GM001,2.78,3,No,Neal,Gordon,0
+4/7/17,Prosaria,Team Development (Non-Training),GM006,2,2,No,Tommy,Nash,0
+4/7/17,Prosaria,Business Development,GM001,1.29,1.5,No,Tommy,Nash,0
+4/7/17,Prosaria,Team Development (Non-Training),GM006,1.64,2,No,Tommy,Nash,0
+4/7/17,Prosaria,Business Development,GM001,1.09,1,No,Tommy,Nash,0
+4/7/17,Prosaria,Business Development,GM001,3.92,4,No,Walter,Silva,0
+4/7/17,Roonder Technologies LLC,Roonder 3.0,TM001,5.91,6,Yes,Faye,Cain,70
+4/7/17,Roonder Technologies LLC,Roonder 3.0,TM001,7.65,8,Yes,Catherine,Ford,70
+4/7/17,Roonder Technologies LLC,Roonder 3.0,TM001,5.49,5,Yes,Neal,Gordon,70
+4/7/17,Roonder Technologies LLC,Roonder 3.0,TM001,2.11,2.5,Yes,Walter,Silva,70
+4/7/17,Twitri,CLOB Rearchitecture,BGC001,8.58,9,Yes,Eugene,Kim,70
+4/7/17,Twitri,CLOB Rearchitecture,BGC001,1.39,1,No,Tommy,Nash,0
+4/7/17,Twitri,CLOB Rearchitecture,BGC001,7.59,8,Yes,Emma,Clarke,50
+4/7/17,Twitri,CLOB Rearchitecture,BGC001,3.35,3.5,Yes,Walter,Silva,50
+4/10/17,Anil,Ethereum,RD001,7.72,8,No,Tabitha,Jenkins,0
+4/10/17,Audosis,Project Wildfire,Audosis003,2.1,2,Yes,Tommy,Nash,70
+4/10/17,Audosis,Project Wildfire,Audosis003,1.33,1,Yes,Walter,Silva,70
+4/10/17,Audosis,Project Wildfire,Audosis003,8.24,8,Yes,Robert,Powell,70
+4/10/17,Olith,Pharos,DV002,8.47,8,Yes,Hubert,Green,80
+4/10/17,Olith,Pharos,DV002,7.95,8,Yes,Rudy,Parker,80
+4/10/17,Prosaria,Admin/Legal,GM002,8.16,8,No,Bradley,Hale,0
+4/10/17,Prosaria,Conference/Training,GM005,7.62,8,No,Faye,Cain,0
+4/10/17,Prosaria,Conference/Training,GM005,1.13,1,No,Tommy,Nash,0
+4/10/17,Prosaria,Business Development,GM001,1.08,1,No,Walter,Silva,0
+4/10/17,Prosaria,Admin/Legal,GM002,0.12,0.5,No,Tommy,Nash,0
+4/10/17,Prosaria,Business Development,GM001,0.58,0.5,No,Tommy,Nash,0
+4/10/17,Roonder Technologies LLC,Roonder 3.0,TM001,8.48,8,Yes,Catherine,Ford,70
+4/10/17,Roonder Technologies LLC,Roonder 3.0,TM001,1.44,1,Yes,Walter,Silva,70
+4/10/17,Roonder Technologies LLC,Roonder 3.0,TM001,7.97,8,Yes,Neal,Gordon,70
+4/10/17,Twitri,CLOB Rearchitecture,BGC001,4.19,4,No,Tommy,Nash,0
+4/10/17,Twitri,CLOB Rearchitecture,BGC001,5.54,6,Yes,Walter,Silva,50
+4/10/17,Twitri,CLOB Rearchitecture,BGC001,5.84,6,Yes,Eugene,Kim,70
+4/10/17,Twitri,CLOB Rearchitecture,BGC001,8.04,8,Yes,Emma,Clarke,50
+4/11/17,Anil,Ethereum,RD001,8.41,8,No,Tabitha,Jenkins,0
+4/11/17,Audosis,Project Wildfire,Audosis003,6.37,6,Yes,Robert,Powell,70
+4/11/17,Audosis,Project Wildfire,Audosis003,2.14,2,Yes,Robert,Powell,70
+4/11/17,Audosis,Project Wildfire,Audosis003,5.37,5,Yes,Walter,Silva,70
+4/11/17,Audosis,Project Wildfire,Audosis003,1.9,2,Yes,Bernice,Rivera,70
+4/11/17,Olith,Pharos,DV002,8,8,Yes,Hubert,Green,80
+4/11/17,Olith,Pharos,DV002,7.77,8,Yes,Rudy,Parker,80
+4/11/17,Olith,Pharos,DV002,1.1,1,Yes,Neal,Gordon,80
+4/11/17,Prosaria,Paid Time Off,GM003,7.78,8,No,Bradley,Hale,0
+4/11/17,Prosaria,Conference/Training,GM005,8.49,8,No,Faye,Cain,0
+4/11/17,Prosaria,Conference/Training,GM005,7.75,8,No,Tommy,Nash,0
+4/11/17,Prosaria,Business Development,GM001,0.75,1,No,Walter,Silva,0
+4/11/17,Prosaria,Training,GM017,6.03,6,No,Bernice,Rivera,0
+4/11/17,Roonder Technologies LLC,Roonder 3.0,TM001,8.47,8,Yes,Catherine,Ford,70
+4/11/17,Roonder Technologies LLC,Roonder 3.0,TM001,2.44,2,Yes,Walter,Silva,70
+4/11/17,Roonder Technologies LLC,Roonder 3.0,TM001,7.42,7,Yes,Neal,Gordon,70
+4/11/17,Twitri,CLOB Rearchitecture,BGC001,1.48,1,Yes,Walter,Silva,50
+4/11/17,Twitri,CLOB Rearchitecture,BGC001,8.65,8.5,Yes,Eugene,Kim,70
+4/11/17,Twitri,CLOB Rearchitecture,BGC001,8.11,8,Yes,Emma,Clarke,50
+4/12/17,Anil,Ethereum,RD001,7.74,8,No,Tabitha,Jenkins,0
+4/12/17,Audosis,Project Wildfire,Audosis003,2.37,2.5,Yes,Walter,Silva,70
+4/12/17,Audosis,Project Wildfire,Audosis003,2.46,2,Yes,Bernice,Rivera,70
+4/12/17,Audosis,Project Wildfire,Audosis003,7.06,7,Yes,Robert,Powell,70
+4/12/17,Audosis,Project Wildfire,Audosis003,1.26,1,Yes,Robert,Powell,70
+4/12/17,Olith,Pharos,DV002,7.54,8,Yes,Hubert,Green,80
+4/12/17,Olith,Pharos,DV002,8.16,8,Yes,Rudy,Parker,80
+4/12/17,Prosaria,Paid Time Off,GM003,8.41,8,No,Bradley,Hale,0
+4/12/17,Prosaria,Conference/Training,GM005,7.8,8,No,Tommy,Nash,0
+4/12/17,Prosaria,Business Development,GM001,2.22,2.5,No,Walter,Silva,0
+4/12/17,Prosaria,Training,GM017,6.26,6,No,Bernice,Rivera,0
+4/12/17,Roonder Technologies LLC,Roonder 3.0,TM001,8.3,8,Yes,Catherine,Ford,70
+4/12/17,Roonder Technologies LLC,Roonder 3.0,TM001,7.62,8,Yes,Neal,Gordon,70
+4/12/17,Roonder Technologies LLC,Roonder 3.0,TM001,1.92,1.5,Yes,Walter,Silva,70
+4/12/17,Roonder Technologies LLC,Roonder 3.0,TM001,8.07,8.5,Yes,Faye,Cain,70
+4/12/17,Twitri,CLOB Rearchitecture,BGC001,2.52,2.5,Yes,Walter,Silva,50
+4/12/17,Twitri,CLOB Rearchitecture,BGC001,8,8,Yes,Emma,Clarke,50
+4/12/17,Twitri,CLOB Rearchitecture,BGC001,8.85,9,Yes,Eugene,Kim,70
+4/13/17,Anil,Ethereum,RD001,7.63,8,No,Tabitha,Jenkins,0
+4/13/17,Audosis,Project Wildfire,Audosis003,5.01,5,Yes,Bernice,Rivera,70
+4/13/17,Audosis,Project Wildfire,Audosis003,4.48,4.5,Yes,Tommy,Nash,70
+4/13/17,Audosis,Project Wildfire,Audosis003,1.45,1.5,Yes,Robert,Powell,70
+4/13/17,Audosis,Project Wildfire,Audosis003,2.24,2.5,Yes,Robert,Powell,70
+4/13/17,Audosis,Project Wildfire,Audosis003,3.89,4,Yes,Robert,Powell,70
+4/13/17,Audosis,Project Wildfire,Audosis003,4.62,5,Yes,Walter,Silva,70
+4/13/17,Olith,Pharos,DV002,2.47,2,Yes,Neal,Gordon,80
+4/13/17,Olith,Pharos,DV002,7.99,8,Yes,Rudy,Parker,80
+4/13/17,Olith,Pharos,DV002,8.44,8,Yes,Hubert,Green,80
+4/13/17,Prosaria,Paid Time Off,GM003,8.17,8,No,Bradley,Hale,0
+4/13/17,Prosaria,Training,GM017,2.89,3,No,Bernice,Rivera,0
+4/13/17,Prosaria,Business Development,GM001,2.12,2,No,Tommy,Nash,0
+4/13/17,Prosaria,Business Development,GM001,1.95,1.5,No,Tommy,Nash,0
+4/13/17,Prosaria,Business Development,GM001,1.04,1,No,Walter,Silva,0
+4/13/17,Roonder Technologies LLC,Roonder 3.0,TM001,5.79,6,Yes,Neal,Gordon,70
+4/13/17,Roonder Technologies LLC,Roonder 3.0,TM001,8.23,8,Yes,Catherine,Ford,70
+4/13/17,Roonder Technologies LLC,Roonder 3.0,TM001,8.75,8.5,Yes,Faye,Cain,70
+4/13/17,Roonder Technologies LLC,Roonder 3.0,TM001,1.75,2,Yes,Walter,Silva,70
+4/13/17,Twitri,CLOB Rearchitecture,BGC001,7.53,8,Yes,Emma,Clarke,50
+4/13/17,Twitri,CLOB Rearchitecture,BGC001,6.91,6.5,Yes,Eugene,Kim,70
+4/13/17,Twitri,CLOB Rearchitecture,BGC001,1.56,2,Yes,Walter,Silva,50
+4/14/17,Anil,Ethereum,RD001,8.25,8,No,Tabitha,Jenkins,0
+4/14/17,Audosis,Project Wildfire,Audosis003,2.95,3,Yes,Walter,Silva,70
+4/14/17,Audosis,Project Wildfire,Audosis003,2.61,3,Yes,Robert,Powell,70
+4/14/17,Audosis,Project Wildfire,Audosis003,4.79,5,Yes,Robert,Powell,70
+4/14/17,Audosis,Project Wildfire,Audosis003,2.91,3,Yes,Tommy,Nash,70
+4/14/17,Olith,Pharos,DV002,8.32,8,Yes,Hubert,Green,80
+4/14/17,Olith,Pharos,DV002,4.23,4,Yes,Rudy,Parker,80
+4/14/17,Prosaria,Paid Time Off,GM003,7.62,8,No,Bradley,Hale,0
+4/14/17,Prosaria,Team Development (Non-Training),GM006,2.07,2,No,Faye,Cain,0
+4/14/17,Prosaria,Business Development,GM001,1.11,1,No,Walter,Silva,0
+4/14/17,Prosaria,Admin/Legal,GM002,2.14,2,No,Tommy,Nash,0
+4/14/17,Prosaria,Business Development,GM001,1.87,1.5,No,Tommy,Nash,0
+4/14/17,Prosaria,Conference/Training,GM005,0.35,0.5,No,Tommy,Nash,0
+4/14/17,Prosaria,Business Development,GM001,0.55,1,No,Tommy,Nash,0
+4/14/17,Prosaria,Conference/Training,GM005,3.8,4,No,Rudy,Parker,0
+4/14/17,Roonder Technologies LLC,Roonder 3.0,TM001,5.59,6,Yes,Faye,Cain,70
+4/14/17,Roonder Technologies LLC,Roonder 3.0,TM001,1.51,1.5,Yes,Walter,Silva,70
+4/14/17,Roonder Technologies LLC,Roonder 3.0,TM001,7.54,8,Yes,Catherine,Ford,70
+4/14/17,Roonder Technologies LLC,Roonder 3.0,TM001,7.51,8,Yes,Neal,Gordon,70
+4/14/17,Twitri,CLOB Rearchitecture,BGC001,3.47,3.5,Yes,Walter,Silva,50
+4/14/17,Twitri,CLOB Rearchitecture,BGC001,7.73,8,Yes,Eugene,Kim,70
+4/14/17,Twitri,CLOB Rearchitecture,BGC001,8.32,8,Yes,Emma,Clarke,50
+4/17/17,Anil,Ethereum,RD001,7.72,8,No,Tabitha,Jenkins,0
+4/17/17,Anil,Watchlist Demo,RD003,7.99,8,No,Eugene,Kim,0
+4/17/17,Anil,Watchlist Demo,RD003,7.69,8,No,Emma,Clarke,0
+4/17/17,Audosis,Project Wildfire,Audosis003,0.21,0.5,Yes,Walter,Silva,70
+4/17/17,Audosis,Project Wildfire,Audosis003,0.89,1,Yes,Tommy,Nash,70
+4/17/17,Audosis,Project Wildfire,Audosis003,8.05,8,Yes,Robert,Powell,70
+4/17/17,Olith,Pharos,DV002,7.54,8,Yes,Bradley,Hale,80
+4/17/17,Olith,Pharos,DV002,8.36,8,Yes,Hubert,Green,80
+4/17/17,Olith,Pharos,DV002,8.24,8,Yes,Rudy,Parker,80
+4/17/17,Prosaria,Business Development,GM001,6.3,6.5,No,Walter,Silva,0
+4/17/17,Prosaria,Admin/Legal,GM002,3.53,4,No,Bradley,Hale,0
+4/17/17,Prosaria,Admin/Legal,GM002,2.77,3,No,Tommy,Nash,0
+4/17/17,Prosaria,Business Development,GM001,0.72,0.5,No,Tommy,Nash,0
+4/17/17,Prosaria,Business Development,GM001,2.28,2.5,No,Tommy,Nash,0
+4/17/17,Prosaria,Business Development,GM001,1.08,1,No,Tommy,Nash,0
+4/17/17,Roonder Technologies LLC,Roonder 3.0,TM001,8.09,8,Yes,Catherine,Ford,70
+4/17/17,Roonder Technologies LLC,Roonder 3.0,TM001,1.28,1.5,Yes,Walter,Silva,70
+4/17/17,Roonder Technologies LLC,Roonder 3.0,TM001,7.76,8,Yes,Neal,Gordon,70
+4/17/17,Roonder Technologies LLC,Roonder 3.0,TM001,8.1,8,Yes,Faye,Cain,70
+4/18/17,Anil,Watchlist Demo,RD003,7.82,8,No,Eugene,Kim,0
+4/18/17,Anil,Ethereum,RD001,8.01,8,No,Tabitha,Jenkins,0
+4/18/17,Anil,Watchlist Demo,RD003,8.44,8,No,Emma,Clarke,0
+4/18/17,Audosis,Project Wildfire,Audosis003,2.02,2,Yes,Walter,Silva,70
+4/18/17,Audosis,Project Wildfire,Audosis003,1.62,2,Yes,Tommy,Nash,70
+4/18/17,Audosis,Project Wildfire,Audosis003,2.45,2.5,Yes,Robert,Powell,70
+4/18/17,Audosis,Project Wildfire,Audosis003,5.85,5.5,Yes,Robert,Powell,70
+4/18/17,Olith,Pharos,DV002,8.35,8,Yes,Hubert,Green,80
+4/18/17,Olith,Pharos,DV002,7.75,8,Yes,Bradley,Hale,80
+4/18/17,Olith,Pharos,DV002,0.64,0.5,No,Tommy,Nash,0
+4/18/17,Olith,Pharos,DV002,7.51,8,Yes,Rudy,Parker,80
+4/18/17,Prosaria,Business Development,GM001,2.19,2,No,Neal,Gordon,0
+4/18/17,Prosaria,Business Development,GM001,0.62,1,No,Neal,Gordon,0
+4/18/17,Prosaria,Business Development,GM001,3.41,3.5,No,Walter,Silva,0
+4/18/17,Prosaria,Business Development,GM001,2.36,2,No,Bradley,Hale,0
+4/18/17,Prosaria,Admin/Legal,GM002,0.76,1,No,Tommy,Nash,0
+4/18/17,Prosaria,Business Development,GM001,0.19,0.5,No,Tommy,Nash,0
+4/18/17,Roonder Technologies LLC,Roonder 3.0,TM001,5.1,5,Yes,Neal,Gordon,70
+4/18/17,Roonder Technologies LLC,Roonder 3.0,TM001,8.47,8,Yes,Catherine,Ford,70
+4/18/17,Roonder Technologies LLC,Roonder 3.0,TM001,1.56,1.5,Yes,Walter,Silva,70
+4/18/17,Roonder Technologies LLC,Roonder 3.0,TM001,7.9,8,Yes,Faye,Cain,70
+4/18/17,Twitri,CLOB Rearchitecture,BGC001,3.63,4,No,Tommy,Nash,0
+4/18/17,Twitri,CLOB Rearchitecture,BGC001,3.62,3.5,Yes,Walter,Silva,50
+4/19/17,Anil,Watchlist Demo,RD003,8.34,8,No,Eugene,Kim,0
+4/19/17,Anil,React Native,RD002,7.79,8,No,Rudy,Parker,0
+4/19/17,Anil,Ethereum,RD001,8.27,8,No,Tabitha,Jenkins,0
+4/19/17,Audosis,Project Wildfire,Audosis003,8.34,8,Yes,Robert,Powell,70
+4/19/17,Olith,Pharos,DV002,7.79,8,Yes,Hubert,Green,80
+4/19/17,Prosaria,Business Development,GM001,8.46,8,No,Tommy,Nash,0
+4/19/17,Prosaria,Paid Time Off,GM003,8.45,8,No,Catherine,Ford,0
+4/19/17,Prosaria,Paid Time Off,GM003,8.05,8,No,Emma,Clarke,0
+4/19/17,Prosaria,Business Development,GM001,8.41,8,No,Neal,Gordon,0
+4/19/17,Prosaria,Training,GM017,7.87,8,No,Bernice,Rivera,0
+4/19/17,Prosaria,Conference/Training,GM005,8.42,8,No,Bradley,Hale,0
+4/19/17,Prosaria,Business Development,GM001,7.86,8,No,Walter,Silva,0
+4/19/17,Roonder Technologies LLC,Roonder 3.0,TM001,7.79,8,Yes,Faye,Cain,70
+4/20/17,Anil,Watchlist Demo,RD003,8.04,8,No,Emma,Clarke,0
+4/20/17,Anil,Watchlist Demo,RD003,3.85,4,No,Eugene,Kim,0
+4/20/17,Audosis,Project Wildfire,Audosis003,5.72,6,Yes,Robert,Powell,70
+4/20/17,Audosis,Project Wildfire,Audosis003,1.6,2,Yes,Robert,Powell,70
+4/20/17,Audosis,Project Wildfire,Audosis003,0.25,0.5,Yes,Bernice,Rivera,70
+4/20/17,Audosis,Project Wildfire,Audosis003,1.57,1.5,Yes,Walter,Silva,70
+4/20/17,Audosis,Project Wildfire,Audosis003,2.11,2.5,Yes,Tommy,Nash,70
+4/20/17,Olith,Pharos,DV002,8,8,Yes,Hubert,Green,80
+4/20/17,Olith,Pharos,DV002,8.41,8,Yes,Rudy,Parker,80
+4/20/17,Prosaria,Team Development (Non-Training),GM006,0.83,0.5,No,Faye,Cain,0
+4/20/17,Prosaria,Admin/Legal,GM002,7.78,7.5,No,Bernice,Rivera,0
+4/20/17,Prosaria,Business Development,GM001,7.95,8,No,Bradley,Hale,0
+4/20/17,Prosaria,Business Development,GM001,6.93,6.5,No,Walter,Silva,0
+4/20/17,Prosaria,Recruiting,GM018,1.84,1.5,No,Tommy,Nash,0
+4/20/17,Prosaria,Business Development,GM001,1.21,1.5,No,Tommy,Nash,0
+4/20/17,Prosaria,Business Development,GM001,1.9,2,No,Tommy,Nash,0
+4/20/17,Prosaria,Paid Time Off,GM003,8.44,8,No,Tabitha,Jenkins,0
+4/20/17,Roonder Technologies LLC,Roonder 3.0,TM001,7.77,8,Yes,Catherine,Ford,70
+4/20/17,Roonder Technologies LLC,Roonder 3.0,TM001,7.79,7.5,Yes,Faye,Cain,70
+4/20/17,Roonder Technologies LLC,Roonder 3.0,TM001,0.94,1,Yes,Walter,Silva,70
+4/20/17,Roonder Technologies LLC,Roonder 3.0,TM001,8.13,8,Yes,Neal,Gordon,70
+4/20/17,Twitri,CLOB Rearchitecture,BGC001,3.14,3,No,Eugene,Kim,0
+4/20/17,Twitri,CLOB Rearchitecture,BGC001,0.62,0.5,No,Tommy,Nash,0
+4/21/17,Anil,React Native,RD002,7.36,7,No,Rudy,Parker,0
+4/21/17,Anil,Watchlist Demo,RD003,0.88,1,No,Emma,Clarke,0
+4/21/17,Audosis,Project Wildfire,Audosis003,1.14,1,Yes,Walter,Silva,70
+4/21/17,Audosis,Project Wildfire,Audosis003,7.25,7,Yes,Robert,Powell,70
+4/21/17,Audosis,Project Wildfire,Audosis003,0.7,1,Yes,Robert,Powell,70
+4/21/17,Olith,Pharos,DV002,3.93,4,Yes,Bradley,Hale,80
+4/21/17,Olith,Pharos,DV002,8.33,8,Yes,Hubert,Green,80
+4/21/17,Olith,Pharos,DV002,0.62,1,Yes,Rudy,Parker,80
+4/21/17,Prosaria,Paid Time Off,GM003,7.77,8,No,Tommy,Nash,0
+4/21/17,Prosaria,Admin/Legal,GM002,8.44,8,No,Bernice,Rivera,0
+4/21/17,Prosaria,Business Development,GM001,4.33,4,No,Bradley,Hale,0
+4/21/17,Prosaria,Business Development,GM001,2.73,3,No,Neal,Gordon,0
+4/21/17,Prosaria,Business Development,GM001,2.94,3,No,Walter,Silva,0
+4/21/17,Prosaria,Paid Time Off,GM003,8.2,8,No,Tabitha,Jenkins,0
+4/21/17,Roonder Technologies LLC,Roonder 3.0,TM001,7.87,8,Yes,Faye,Cain,70
+4/21/17,Roonder Technologies LLC,Roonder 3.0,TM001,7.68,8,Yes,Catherine,Ford,70
+4/21/17,Roonder Technologies LLC,Roonder 3.0,TM001,4.51,5,Yes,Neal,Gordon,70
+4/21/17,Roonder Technologies LLC,Roonder 3.0,TM001,2.12,2,Yes,Walter,Silva,70
+4/21/17,Twitri,CLOB Rearchitecture,BGC001,7.18,7,Yes,Emma,Clarke,50
+4/21/17,Twitri,CLOB Rearchitecture,BGC001,2.84,3,Yes,Walter,Silva,50
+4/21/17,Twitri,CLOB Rearchitecture,BGC001,7.59,8,Yes,Eugene,Kim,70
+4/24/17,Anil,Watchlist Demo,RD003,7.68,8,No,Eugene,Kim,0
+4/24/17,Anil,Watchlist Demo,RD003,8.3,8,No,Emma,Clarke,0
+4/24/17,Anil,Watchlist Demo,RD003,1.78,2,No,Walter,Silva,0
+4/24/17,Anil,Ethereum,RD001,7.67,8,No,Tabitha,Jenkins,0
+4/24/17,Audosis,Project Wildfire,Audosis003,2.51,3,Yes,Tommy,Nash,70
+4/24/17,Audosis,Project Wildfire,Audosis003,1.46,1,Yes,Walter,Silva,70
+4/24/17,Audosis,Project Wildfire,Audosis003,5.86,6,Yes,Robert,Powell,70
+4/24/17,Audosis,Project Wildfire,Audosis003,0.81,1,Yes,Robert,Powell,70
+4/24/17,Audosis,Project Wildfire,Audosis003,1.07,1,Yes,Robert,Powell,70
+4/24/17,Olith,Pharos,DV002,7.89,8,Yes,Bradley,Hale,80
+4/24/17,Olith,Pharos,DV002,7.55,8,Yes,Hubert,Green,80
+4/24/17,Olith,Pharos,DV002,8.41,8,Yes,Rudy,Parker,80
+4/24/17,Prosaria,Business Development,GM001,0.18,0.5,No,Tommy,Nash,0
+4/24/17,Prosaria,Business Development,GM001,0.74,1,No,Tommy,Nash,0
+4/24/17,Prosaria,Admin/Legal,GM002,2.79,3,No,Tommy,Nash,0
+4/24/17,Prosaria,Training,GM017,5.87,6,No,Catherine,Ford,0
+4/24/17,Prosaria,Business Development,GM001,2.44,2.5,No,Walter,Silva,0
+4/24/17,Prosaria,Paid Time Off,GM003,8.22,8,No,Neal,Gordon,0
+4/24/17,Roonder Technologies LLC,Roonder 3.0,TM001,1.8,2,Yes,Catherine,Ford,70
+4/24/17,Roonder Technologies LLC,Roonder 3.0,TM001,2.15,2,Yes,Walter,Silva,70
+4/24/17,Roonder Technologies LLC,Roonder 3.0,TM001,7.75,8,Yes,Faye,Cain,70
+4/24/17,Twitri,CLOB Rearchitecture,BGC001,0.1,0.5,No,Tommy,Nash,0
+4/24/17,Twitri,CLOB Rearchitecture,BGC001,1.55,1.5,Yes,Walter,Silva,50
+4/25/17,Anil,Ethereum,RD001,1.57,2,No,Neal,Gordon,0
+4/25/17,Anil,Ethereum,RD001,1.8,1.5,No,Bernice,Rivera,0
+4/25/17,Anil,Watchlist Demo,RD003,8.29,8,No,Eugene,Kim,0
+4/25/17,Anil,Watchlist Demo,RD003,8.45,8,No,Emma,Clarke,0
+4/25/17,Anil,Ethereum,RD001,7.88,8,No,Tabitha,Jenkins,0
+4/25/17,Anil,Watchlist Demo,RD003,0.65,1,No,Walter,Silva,0
+4/25/17,Audosis,Project Wildfire,Audosis003,5.13,5,Yes,Tommy,Nash,70
+4/25/17,Audosis,Project Wildfire,Audosis003,0.8,1,Yes,Bernice,Rivera,70
+4/25/17,Audosis,Project Wildfire,Audosis003,4.57,4.5,Yes,Walter,Silva,70
+4/25/17,Audosis,Project Wildfire,Audosis003,6.99,7,Yes,Robert,Powell,70
+4/25/17,Audosis,Project Wildfire,Audosis003,1.07,1,Yes,Robert,Powell,70
+4/25/17,Olith,Pharos,DV002,7.7,8,Yes,Bradley,Hale,80
+4/25/17,Olith,Pharos,DV002,7.52,8,Yes,Hubert,Green,80
+4/25/17,Olith,Pharos,DV002,1.16,1,Yes,Neal,Gordon,250
+4/25/17,Olith,Pharos,DV002,8.36,8,Yes,Rudy,Parker,80
+4/25/17,Olith,Pharos,DV002,1.91,1.5,Yes,Rudy,Parker,250
+4/25/17,Prosaria,Recruiting,GM018,0.56,0.5,No,Tommy,Nash,0
+4/25/17,Prosaria,Admin/Legal,GM002,1.63,1.5,No,Tommy,Nash,0
+4/25/17,Prosaria,Admin/Legal,GM002,5.16,5.5,No,Bernice,Rivera,0
+4/25/17,Prosaria,Paid Time Off,GM003,8.35,8,No,Faye,Cain,0
+4/25/17,Prosaria,Business Development,GM001,0.68,1,No,Walter,Silva,0
+4/25/17,Roonder Technologies LLC,Roonder 3.0,TM001,8.07,8,Yes,Catherine,Ford,70
+4/25/17,Roonder Technologies LLC,Roonder 3.0,TM001,5.53,6,Yes,Neal,Gordon,70
+4/25/17,Roonder Technologies LLC,Roonder 3.0,TM001,1.27,1,Yes,Walter,Silva,70
+4/25/17,Twitri,CLOB Rearchitecture,BGC001,0.61,1,No,Tommy,Nash,0
+4/25/17,Twitri,CLOB Rearchitecture,BGC001,1.03,1,Yes,Walter,Silva,50
+4/26/17,Anil,Watchlist Demo,RD003,4.04,4,No,Eugene,Kim,0
+4/26/17,Anil,Watchlist Demo,RD003,3.58,4,No,Emma,Clarke,0
+4/26/17,Anil,Watchlist Demo,RD003,2.3,2.5,No,Eugene,Kim,0
+4/26/17,Anil,Ethereum,RD001,7.7,8,No,Tabitha,Jenkins,0
+4/26/17,Anil,React Native,RD002,8.11,8,No,Rudy,Parker,0
+4/26/17,Audosis,Project Wildfire,Audosis003,2.23,2.5,Yes,Tommy,Nash,70
+4/26/17,Audosis,Project Wildfire,Audosis003,1.71,2,Yes,Walter,Silva,70
+4/26/17,Audosis,Project Wildfire,Audosis003,7.42,7,Yes,Robert,Powell,70
+4/26/17,Audosis,Project Wildfire,Audosis003,4.62,5,Yes,Bernice,Rivera,70
+4/26/17,Audosis,Project Wildfire,Audosis003,1.21,1,Yes,Robert,Powell,70
+4/26/17,Olith,Pharos,DV002,8.42,8,Yes,Bradley,Hale,80
+4/26/17,Olith,Pharos,DV002,8.37,8,Yes,Hubert,Green,80
+4/26/17,Olith,Pharos,DV002,3.73,4,Yes,Emma,Clarke,80
+4/26/17,Olith,Pharos,DV002,0.59,1,Yes,Neal,Gordon,80
+4/26/17,Prosaria,Admin/Legal,GM002,0.97,1,No,Tommy,Nash,0
+4/26/17,Prosaria,Business Development,GM001,0.94,1,No,Tommy,Nash,0
+4/26/17,Prosaria,Team Development (Non-Training),GM006,1.87,1.5,No,Eugene,Kim,0
+4/26/17,Prosaria,Recruiting,GM018,1.42,1.5,No,Tommy,Nash,0
+4/26/17,Prosaria,Business Development,GM001,1.26,1,No,Tommy,Nash,0
+4/26/17,Prosaria,Admin/Legal,GM002,1.33,1,No,Tommy,Nash,0
+4/26/17,Prosaria,Business Development,GM001,0.6,0.5,No,Walter,Silva,0
+4/26/17,Prosaria,Paid Time Off,GM003,3.85,4,No,Walter,Silva,0
+4/26/17,Prosaria,Admin/Legal,GM002,3.43,3,No,Bernice,Rivera,0
+4/26/17,Prosaria,Business Development,GM001,0.56,1,No,Neal,Gordon,0
+4/26/17,Roonder Technologies LLC,Roonder 3.0,TM001,7.85,8,Yes,Faye,Cain,70
+4/26/17,Roonder Technologies LLC,Roonder 3.0,TM001,8.03,8,Yes,Catherine,Ford,70
+4/26/17,Roonder Technologies LLC,Roonder 3.0,TM001,1.57,1.5,Yes,Walter,Silva,70
+4/26/17,Roonder Technologies LLC,Roonder 3.0,TM001,6.3,6,Yes,Neal,Gordon,70
+4/27/17,Audosis,Project Wildfire,Audosis003,6.77,6.5,Yes,Robert,Powell,70
+4/27/17,Audosis,Project Wildfire,Audosis003,8.43,8,Yes,Tabitha,Jenkins,70
+4/27/17,Audosis,Project Wildfire,Audosis003,2.79,2.5,Yes,Tommy,Nash,70
+4/27/17,Audosis,Project Wildfire,Audosis003,1.23,1,Yes,Robert,Powell,70
+4/27/17,Audosis,Project Wildfire,Audosis003,8.26,8,Yes,Eugene,Kim,70
+4/27/17,Audosis,Project Wildfire,Audosis003,7.88,8,Yes,Bernice,Rivera,70
+4/27/17,Audosis,Project Wildfire,Audosis003,0.58,1,Yes,Neal,Gordon,70
+4/27/17,Olith,Pharos,DV002,7.64,8,Yes,Hubert,Green,80
+4/27/17,Olith,Pharos,DV002,1.86,2,Yes,Bradley,Hale,80
+4/27/17,Olith,Pharos,DV002,7.6,8,Yes,Rudy,Parker,80
+4/27/17,Olith,Pharos,DV002,7.84,8,Yes,Emma,Clarke,80
+4/27/17,Prosaria,Paid Time Off,GM003,8.23,8,No,Walter,Silva,0
+4/27/17,Prosaria,Business Development,GM001,0.65,1,No,Tommy,Nash,0
+4/27/17,Prosaria,Business Development,GM001,0.78,1,No,Tommy,Nash,0
+4/27/17,Prosaria,Team Development (Non-Training),GM006,0.97,0.5,No,Tommy,Nash,0
+4/27/17,Prosaria,Business Development,GM001,0.88,0.5,No,Tommy,Nash,0
+4/27/17,Prosaria,Admin/Legal,GM002,0.57,0.5,No,Tommy,Nash,0
+4/27/17,Prosaria,Team Development (Non-Training),GM006,1.05,1,No,Tommy,Nash,0
+4/27/17,Prosaria,Business Development,GM001,0.55,1,No,Neal,Gordon,0
+4/27/17,Prosaria,Business Development,GM001,1.17,1,No,Neal,Gordon,0
+4/27/17,Prosaria,Team Development (Non-Training),GM006,0.73,0.5,No,Robert,Powell,0
+4/27/17,Prosaria,Business Development,GM001,6.38,6,No,Bradley,Hale,0
+4/27/17,Roonder Technologies LLC,Roonder 3.0,TM001,8.08,8,Yes,Catherine,Ford,70
+4/27/17,Roonder Technologies LLC,Roonder 3.0,TM001,8.29,8,Yes,Faye,Cain,70
+4/27/17,Roonder Technologies LLC,Roonder 3.0,TM001,5.96,6,Yes,Neal,Gordon,70
+4/27/17,Twitri,CLOB Rearchitecture,BGC001,0.64,1,No,Tommy,Nash,0
+4/28/17,Anil,React Native,RD002,4.35,4.5,No,Rudy,Parker,0
+4/28/17,Anil,Watchlist Demo,RD003,2.46,2,No,Eugene,Kim,0
+4/28/17,Audosis,Project Wildfire,Audosis003,1.36,1.5,Yes,Tommy,Nash,70
+4/28/17,Audosis,Project Wildfire,Audosis003,5.04,5.5,Yes,Eugene,Kim,70
+4/28/17,Audosis,Project Wildfire,Audosis003,6.98,7,Yes,Robert,Powell,70
+4/28/17,Audosis,Project Wildfire,Audosis003,0.53,1,Yes,Neal,Gordon,70
+4/28/17,Olith,Pharos,DV002,7.8,8,Yes,Hubert,Green,80
+4/28/17,Olith,Pharos,DV002,3.61,4,Yes,Bradley,Hale,80
+4/28/17,Olith,Pharos,DV002,2.24,2,Yes,Rudy,Parker,80
+4/28/17,Olith,Pharos,DV002,6.28,6.5,Yes,Emma,Clarke,80
+4/28/17,Prosaria,Paid Time Off,GM003,7.95,8,No,Walter,Silva,0
+4/28/17,Prosaria,Paid Time Off,GM003,4.17,4,No,Faye,Cain,0
+4/28/17,Prosaria,Business Development,GM001,2.4,2,No,Tommy,Nash,0
+4/28/17,Prosaria,Admin/Legal,GM002,4.15,4,No,Bradley,Hale,0
+4/28/17,Prosaria,Team Development (Non-Training),GM006,0.88,0.5,No,Tommy,Nash,0
+4/28/17,Prosaria,Admin/Legal,GM002,0.18,0.5,No,Tommy,Nash,0
+4/28/17,Prosaria,Team Development (Non-Training),GM006,0.85,1,No,Tommy,Nash,0
+4/28/17,Prosaria,Team Development (Non-Training),GM006,2.23,2.5,No,Tommy,Nash,0
+4/28/17,Prosaria,Team Development (Non-Training),GM006,1.98,1.5,No,Emma,Clarke,0
+4/28/17,Prosaria,Business Development,GM001,1.74,2,No,Neal,Gordon,0
+4/28/17,Roonder Technologies LLC,Roonder 3.0,TM001,4.31,4,Yes,Faye,Cain,70
+4/28/17,Roonder Technologies LLC,Roonder 3.0,TM001,7.56,8,Yes,Catherine,Ford,70
+4/28/17,Roonder Technologies LLC,Roonder 3.0,TM001,5.56,6,Yes,Neal,Gordon,70
+4/30/17,Audosis,Project Wildfire,Audosis003,8.03,8,Yes,Tabitha,Jenkins,70
+5/1/17,Audosis,Project Wildfire,Audosis003,2.48,2,Yes,Tommy,Nash,70
+5/1/17,Audosis,Project Wildfire,Audosis003,8.03,8,Yes,Tabitha,Jenkins,70
+5/1/17,Audosis,Project Wildfire,Audosis003,7.23,7,Yes,Eugene,Kim,70
+5/1/17,Audosis,Project Wildfire,Audosis003,1.12,1,Yes,Robert,Powell,70
+5/1/17,Audosis,Project Wildfire,Audosis003,5.17,5,Yes,Robert,Powell,70
+5/1/17,Audosis,Project Wildfire,Audosis003,8.3,8,Yes,Bernice,Rivera,70
+5/1/17,Olith,Pharos,DV002,2.12,2,Yes,Bradley,Hale,80
+5/1/17,Olith,Pharos,DV002,8.1,8,Yes,Hubert,Green,80
+5/1/17,Olith,Pharos,DV002,7.42,7,Yes,Emma,Clarke,80
+5/1/17,Olith,Pharos,DV002,7.16,7,Yes,Rudy,Parker,80
+5/1/17,Prosaria,Team Development (Non-Training),GM006,2.8,3,No,Tommy,Nash,0
+5/1/17,Prosaria,Team Development (Non-Training),GM006,1.11,1,No,Tommy,Nash,0
+5/1/17,Prosaria,Admin/Legal,GM002,5.76,6,No,Bradley,Hale,0
+5/1/17,Prosaria,Business Development,GM001,2.63,3,No,Neal,Gordon,0
+5/1/17,Prosaria,Team Development (Non-Training),GM006,2.02,2,No,Faye,Cain,0
+5/1/17,Prosaria,Admin/Legal,GM002,2.91,2.5,No,Tommy,Nash,0
+5/1/17,Prosaria,Team Development (Non-Training),GM006,0.79,1,No,Emma,Clarke,0
+5/1/17,Prosaria,Team Development (Non-Training),GM006,2.33,2,No,Robert,Powell,0
+5/1/17,Prosaria,Paid Time Off,GM003,8.25,8,No,Walter,Silva,0
+5/1/17,Prosaria,Team Development (Non-Training),GM006,1.22,1,No,Rudy,Parker,0
+5/1/17,Roonder Technologies LLC,Roonder 3.0,TM001,5.32,5,Yes,Neal,Gordon,70
+5/1/17,Roonder Technologies LLC,Roonder 3.0,TM001,7.56,8,Yes,Catherine,Ford,70
+5/1/17,Roonder Technologies LLC,Roonder 3.0,TM001,6.19,6,Yes,Faye,Cain,70
+5/1/17,Twitri,CLOB Rearchitecture,BGC001,0.98,0.5,No,Tommy,Nash,0
+5/2/17,Audosis,Project Wildfire,Audosis003,8.03,8,Yes,Tabitha,Jenkins,70
+5/2/17,Audosis,Project Wildfire,Audosis003,4.29,4.5,Yes,Tommy,Nash,70
+5/2/17,Audosis,Project Wildfire,Audosis003,0.65,1,Yes,Neal,Gordon,70
+5/2/17,Audosis,Project Wildfire,Audosis003,0.64,1,Yes,Robert,Powell,70
+5/2/17,Audosis,Project Wildfire,Audosis003,5.9,6,Yes,Robert,Powell,70
+5/2/17,Audosis,Project Wildfire,Audosis003,0.8,1,Yes,Robert,Powell,70
+5/2/17,Audosis,Project Wildfire,Audosis003,6.98,7,Yes,Eugene,Kim,70
+5/2/17,Audosis,Project Wildfire,Audosis003,7.55,8,Yes,Bernice,Rivera,70
+5/2/17,Olith,Pharos,DV002,8.27,8,Yes,Bradley,Hale,80
+5/2/17,Olith,Pharos,DV002,8.33,8,Yes,Emma,Clarke,80
+5/2/17,Olith,Pharos,DV002,7.84,8,Yes,Hubert,Green,80
+5/2/17,Olith,Pharos,DV002,7.87,8,Yes,Rudy,Parker,80
+5/2/17,Prosaria,Recruiting,GM018,0.77,1,No,Tommy,Nash,0
+5/2/17,Prosaria,Team Development (Non-Training),GM006,0.7,1,No,Faye,Cain,0
+5/2/17,Prosaria,Business Development,GM001,0.51,1,No,Neal,Gordon,0
+5/2/17,Prosaria,Business Development,GM001,2.92,3,No,Neal,Gordon,0
+5/2/17,Prosaria,Team Development (Non-Training),GM006,0.7,1,No,Tommy,Nash,0
+5/2/17,Prosaria,Admin/Legal,GM002,1.36,1.5,No,Tommy,Nash,0
+5/2/17,Prosaria,Team Development (Non-Training),GM006,1.41,1,No,Eugene,Kim,0
+5/2/17,Prosaria,Paid Time Off,GM003,8.02,8,No,Walter,Silva,0
+5/2/17,Roonder Technologies LLC,Roonder 3.0,TM001,8.08,8,Yes,Catherine,Ford,70
+5/2/17,Roonder Technologies LLC,Roonder 3.0,TM001,6.78,7,Yes,Faye,Cain,70
+5/2/17,Roonder Technologies LLC,Roonder 3.0,TM001,3.25,3,Yes,Neal,Gordon,70
+5/3/17,Audosis,Project Wildfire,Audosis003,2.87,2.5,Yes,Tommy,Nash,70
+5/3/17,Audosis,Project Wildfire,Audosis003,2.46,2,Yes,Robert,Powell,70
+5/3/17,Audosis,Project Wildfire,Audosis003,6,6,Yes,Robert,Powell,70
+5/3/17,Audosis,Project Wildfire,Audosis003,7.6,8,Yes,Tabitha,Jenkins,70
+5/3/17,Audosis,Project Wildfire,Audosis003,1.05,1,Yes,Neal,Gordon,70
+5/3/17,Audosis,Project Wildfire,Audosis003,8.44,8,Yes,Eugene,Kim,70
+5/3/17,Audosis,Project Wildfire,Audosis003,3.21,3,Yes,Walter,Silva,70
+5/3/17,Audosis,Project Wildfire,Audosis003,6.5,6.5,Yes,Bernice,Rivera,70
+5/3/17,Olith,Pharos,DV002,1.97,2,Yes,Bradley,Hale,80
+5/3/17,Olith,Pharos,DV002,1.3,1,Yes,Neal,Gordon,80
+5/3/17,Olith,Pharos,DV002,8.43,8,Yes,Hubert,Green,80
+5/3/17,Olith,Pharos,DV002,8.35,8,Yes,Emma,Clarke,80
+5/3/17,Olith,Pharos,DV002,8.35,8,Yes,Rudy,Parker,80
+5/3/17,Prosaria,Business Development,GM001,5.95,6,No,Bradley,Hale,0
+5/3/17,Prosaria,Admin/Legal,GM002,1.42,1,No,Tommy,Nash,0
+5/3/17,Prosaria,Business Development,GM001,0.89,1,No,Tommy,Nash,0
+5/3/17,Prosaria,Admin/Legal,GM002,1.94,2,No,Tommy,Nash,0
+5/3/17,Prosaria,Business Development,GM001,2.44,2,No,Neal,Gordon,0
+5/3/17,Prosaria,Business Development,GM001,3.62,3.5,No,Walter,Silva,0
+5/3/17,Prosaria,Admin/Legal,GM002,1.16,1.5,No,Bernice,Rivera,0
+5/3/17,Roonder Technologies LLC,Roonder 3.0,TM001,7.92,8,Yes,Catherine,Ford,70
+5/3/17,Roonder Technologies LLC,Roonder 3.0,TM001,3.54,4,Yes,Neal,Gordon,70
+5/3/17,Roonder Technologies LLC,Roonder 3.0,TM001,1.26,1.5,Yes,Walter,Silva,70
+5/3/17,Roonder Technologies LLC,Roonder 3.0,TM001,7.72,8,Yes,Faye,Cain,70
+5/3/17,Twitri,CLOB Rearchitecture,BGC001,1.66,1.5,No,Tommy,Nash,0
+5/3/17,Twitri,CLOB Rearchitecture,BGC001,0.66,1,Yes,Walter,Silva,50
+5/4/17,Audosis,Project Wildfire,Audosis003,2.11,2,Yes,Tommy,Nash,70
+5/4/17,Audosis,Project Wildfire,Audosis003,7.81,8,Yes,Eugene,Kim,70
+5/4/17,Audosis,Project Wildfire,Audosis003,8.4,8,Yes,Tabitha,Jenkins,70
+5/4/17,Audosis,Project Wildfire,Audosis003,2,2,Yes,Walter,Silva,70
+5/4/17,Audosis,Project Wildfire,Audosis003,8.45,8,Yes,Robert,Powell,70
+5/4/17,Audosis,Project Wildfire,Audosis003,1.31,1,Yes,Neal,Gordon,70
+5/4/17,Olith,Pharos,DV002,4.08,4,Yes,Bradley,Hale,80
+5/4/17,Olith,Pharos,DV002,8.32,8,Yes,Hubert,Green,80
+5/4/17,Olith,Pharos,DV002,8.44,8,Yes,Emma,Clarke,80
+5/4/17,Olith,Pharos,DV002,7.95,8,Yes,Rudy,Parker,80
+5/4/17,Olith,Pharos,DV002,1.04,1,Yes,Neal,Gordon,80
+5/4/17,Prosaria,Business Development,GM001,4.49,4,No,Bradley,Hale,0
+5/4/17,Prosaria,Recruiting,GM018,0.43,0.5,No,Tommy,Nash,0
+5/4/17,Prosaria,Admin/Legal,GM002,1.11,1,No,Tommy,Nash,0
+5/4/17,Prosaria,Team Development (Non-Training),GM006,1.12,1,No,Tommy,Nash,0
+5/4/17,Prosaria,Admin/Legal,GM002,0.72,0.5,No,Tommy,Nash,0
+5/4/17,Prosaria,Business Development,GM001,1.28,1,No,Tommy,Nash,0
+5/4/17,Prosaria,Business Development,GM001,4.35,4,No,Walter,Silva,0
+5/4/17,Prosaria,Training,GM017,1.92,2,No,Catherine,Ford,0
+5/4/17,Prosaria,Business Development,GM001,1.25,1,No,Neal,Gordon,0
+5/4/17,Roonder Technologies LLC,Roonder 3.0,TM001,5.58,6,Yes,Catherine,Ford,70
+5/4/17,Roonder Technologies LLC,Roonder 3.0,TM001,7.65,8,Yes,Faye,Cain,70
+5/4/17,Roonder Technologies LLC,Roonder 3.0,TM001,1.88,2,Yes,Walter,Silva,70
+5/4/17,Roonder Technologies LLC,Roonder 3.0,TM001,4.63,5,Yes,Neal,Gordon,70
+5/4/17,Twitri,CLOB Rearchitecture,BGC001,2.13,2,No,Tommy,Nash,0
+5/5/17,Anil,React Native,RD002,5.52,5.5,No,Rudy,Parker,0
+5/5/17,Audosis,Project Wildfire,Audosis003,8.02,8,Yes,Tabitha,Jenkins,70
+5/5/17,Audosis,Project Wildfire,Audosis003,7.67,8,Yes,Robert,Powell,70
+5/5/17,Audosis,Project Wildfire,Audosis003,0.81,0.5,Yes,Neal,Gordon,70
+5/5/17,Audosis,Project Wildfire,Audosis003,0.78,1,No,Tommy,Nash,0
+5/5/17,Audosis,Project Wildfire,Audosis003,6.15,6.5,Yes,Eugene,Kim,70
+5/5/17,Audosis,Project Wildfire,Audosis003,1.42,1.5,Yes,Walter,Silva,70
+5/5/17,Olith,Pharos,DV002,0.23,0.5,Yes,Rudy,Parker,80
+5/5/17,Olith,Pharos,DV002,6.97,7,Yes,Hubert,Green,80
+5/5/17,Olith,Pharos,DV002,7.1,7,Yes,Emma,Clarke,80
+5/5/17,Prosaria,Business Development,GM001,7.53,8,No,Bradley,Hale,0
+5/5/17,Prosaria,Team Development (Non-Training),GM006,2.13,2.5,No,Faye,Cain,0
+5/5/17,Prosaria,Team Development (Non-Training),GM006,2.14,2,No,Catherine,Ford,0
+5/5/17,Prosaria,Business Development,GM001,0.96,1,No,Neal,Gordon,0
+5/5/17,Prosaria,Business Development,GM001,1.08,1,No,Neal,Gordon,0
+5/5/17,Prosaria,Business Development,GM001,0.97,1,No,Neal,Gordon,0
+5/5/17,Prosaria,Business Development,GM001,1.58,1.5,No,Neal,Gordon,0
+5/5/17,Prosaria,Business Development,GM001,1.24,1,No,Neal,Gordon,0
+5/5/17,Prosaria,Team Development (Non-Training),GM006,1.53,2,No,Tommy,Nash,0
+5/5/17,Prosaria,Team Development (Non-Training),GM006,1.44,1,No,Tommy,Nash,0
+5/5/17,Prosaria,Business Development,GM001,0.84,1,No,Tommy,Nash,0
+5/5/17,Prosaria,Business Development,GM001,0.36,0.5,No,Tommy,Nash,0
+5/5/17,Prosaria,Team Development (Non-Training),GM006,0.65,0.5,No,Tommy,Nash,0
+5/5/17,Prosaria,Business Development,GM001,1.74,1.5,No,Tommy,Nash,0
+5/5/17,Prosaria,Team Development (Non-Training),GM006,2.34,2,No,Eugene,Kim,0
+5/5/17,Prosaria,Team Development (Non-Training),GM006,0.78,1,No,Rudy,Parker,0
+5/5/17,Prosaria,Team Development (Non-Training),GM006,1.44,1,No,Hubert,Green,0
+5/5/17,Prosaria,Business Development,GM001,4.85,4.5,No,Walter,Silva,0
+5/5/17,Prosaria,Business Development,GM001,0.53,1,No,Rudy,Parker,0
+5/5/17,Prosaria,Team Development (Non-Training),GM006,1.05,1,No,Emma,Clarke,0
+5/5/17,Roonder Technologies LLC,Roonder 3.0,TM001,5.45,5.5,Yes,Faye,Cain,70
+5/5/17,Roonder Technologies LLC,Roonder 3.0,TM001,0.9,0.5,Yes,Catherine,Ford,70
+5/5/17,Roonder Technologies LLC,Roonder 3.0,TM001,0.86,0.5,Yes,Catherine,Ford,70
+5/5/17,Roonder Technologies LLC,Roonder 3.0,TM001,1.77,2,Yes,Catherine,Ford,70
+5/5/17,Roonder Technologies LLC,Roonder 3.0,TM001,2.91,3,Yes,Catherine,Ford,70
+5/5/17,Roonder Technologies LLC,Roonder 3.0,TM001,1.65,2,Yes,Neal,Gordon,70
+5/5/17,Roonder Technologies LLC,Roonder 3.0,TM001,3.47,3,Yes,Walter,Silva,70
+5/5/17,Twitri,CLOB Rearchitecture,BGC001,0.57,0.5,No,Tommy,Nash,0
+5/8/17,Audosis,Project Wildfire,Audosis003,3.08,3,Yes,Walter,Silva,70
+5/8/17,Audosis,Project Wildfire,Audosis003,0.9,0.5,Yes,Tommy,Nash,70
+5/8/17,Audosis,Project Wildfire,Audosis003,3.81,4,Yes,Robert,Powell,70
+5/8/17,Olith,Pharos,DV002,0.68,1,Yes,Bradley,Hale,80
+5/8/17,Prosaria,Business Development,GM001,0.4,0.5,No,Walter,Silva,0
+5/8/17,Prosaria,Business Development,GM001,0.93,0.5,No,Tommy,Nash,0
+5/8/17,Prosaria,Business Development,GM001,0.64,1,No,Walter,Silva,0
+5/8/17,Prosaria,Business Development,GM001,1.74,2,No,Tommy,Nash,0
+5/8/17,Roonder Technologies LLC,Roonder 3.0,TM001,0.47,0.5,Yes,Walter,Silva,70
+5/8/17,Roonder Technologies LLC,Roonder 3.0,TM001,0.65,0.5,No,Tommy,Nash,0
+5/8/17,Roonder Technologies LLC,Roonder 3.0,TM001,1,1,Yes,Neal,Gordon,70
+5/8/17,Roonder Technologies LLC,Roonder 3.0,TM001,1.24,1,Yes,Neal,Gordon,70
+5/8/17,Roonder Technologies LLC,Roonder 3.0,TM001,4.24,4,Yes,Catherine,Ford,70
+5/8/17,Twitri,CLOB Rearchitecture,BGC001,1.06,1,No,Tommy,Nash,0
