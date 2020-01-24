@@ -1,4 +1,4 @@
-# #Giant Machines Work-Order Back-End
+## Giant Machines Work-Order Back-End
 
 This application is built with Ruby on Rails to organize and sort work orders
 
