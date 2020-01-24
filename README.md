@@ -4,7 +4,9 @@ This application is built with Ruby on Rails to organize and sort work orders
 
 ## Installation
 
-Once cloned run…
+Clone https://github.com/nkhosla91/Giant-Machines-Back-End.git
+
+Once cloned and the file is open run…
 
 ```
 bundle install
