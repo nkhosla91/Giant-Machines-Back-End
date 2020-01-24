@@ -11,8 +11,9 @@ class Api::V1::WorksController < ApplicationController
     end
 
     def create
+        # byebug
         work = Work.new(work_params)
-        if work.savegit 
+        if work.save
           render json: work
         else
           render json: {errors: work.errors.full_messages}, status: 403
